@@ -1,4 +1,4 @@
-### Hi, I'm Michael Šilhavý 👋
+### Hi, I'm Michael Šilhavý
 
 Technology consultant. By day: sales and IT reporting, Power BI
 ([PL-300](https://learn.microsoft.com/api/credentials/share/en-us/Michaelilhav-0908/55063E89E5DBEAF8?sharingId=E654A817318D3B85)),
